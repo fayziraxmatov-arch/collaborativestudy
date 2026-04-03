@@ -1,0 +1,152 @@
+[
+  {
+    "question": "1. How comfortable do you feel sharing your ideas during group study sessions?",
+    "options": [
+      {"text": "Very uncomfortable", "score": 0},
+      {"text": "Uncomfortable", "score": 1},
+      {"text": "Neutral", "score": 2},
+      {"text": "Comfortable", "score": 3},
+      {"text": "Very comfortable", "score": 4}
+    ]
+  },
+  {
+    "question": "2. How often do your group members listen carefully to your opinions?",
+    "options": [
+      {"text": "Never", "score": 0},
+      {"text": "Rarely", "score": 1},
+      {"text": "Sometimes", "score": 2},
+      {"text": "Often", "score": 3},
+      {"text": "Always", "score": 4}
+    ]
+  },
+  {
+    "question": "3. How satisfied are you with task distribution in group assignments?",
+    "options": [
+      {"text": "Very dissatisfied", "score": 0},
+      {"text": "Dissatisfied", "score": 1},
+      {"text": "Neutral", "score": 2},
+      {"text": "Satisfied", "score": 3},
+      {"text": "Very satisfied", "score": 4}
+    ]
+  },
+  {
+    "question": "4. How often do you feel that your contribution is valued by your teammates?",
+    "options": [
+      {"text": "Never", "score": 0},
+      {"text": "Rarely", "score": 1},
+      {"text": "Sometimes", "score": 2},
+      {"text": "Often", "score": 3},
+      {"text": "Always", "score": 4}
+    ]
+  },
+  {
+    "question": "5. How effective is communication within your study group?",
+    "options": [
+      {"text": "Very ineffective", "score": 0},
+      {"text": "Ineffective", "score": 1},
+      {"text": "Moderate", "score": 2},
+      {"text": "Effective", "score": 3},
+      {"text": "Very effective", "score": 4}
+    ]
+  },
+  {
+    "question": "6. How motivated do you feel when working in a group?",
+    "options": [
+      {"text": "Not motivated at all", "score": 0},
+      {"text": "Slightly motivated", "score": 1},
+      {"text": "Moderately motivated", "score": 2},
+      {"text": "Motivated", "score": 3},
+      {"text": "Highly motivated", "score": 4}
+    ]
+  },
+  {
+    "question": "7. How fair is the workload among group members?",
+    "options": [
+      {"text": "Very unfair", "score": 0},
+      {"text": "Unfair", "score": 1},
+      {"text": "Neutral", "score": 2},
+      {"text": "Fair", "score": 3},
+      {"text": "Very fair", "score": 4}
+    ]
+  },
+  {
+    "question": "8. How confident are you in your group's academic performance?",
+    "options": [
+      {"text": "Not confident at all", "score": 0},
+      {"text": "Slightly confident", "score": 1},
+      {"text": "Moderately confident", "score": 2},
+      {"text": "Confident", "score": 3},
+      {"text": "Very confident", "score": 4}
+    ]
+  },
+  {
+    "question": "9. How often do misunderstandings occur in your group?",
+    "options": [
+      {"text": "Very often", "score": 0},
+      {"text": "Often", "score": 1},
+      {"text": "Sometimes", "score": 2},
+      {"text": "Rarely", "score": 3},
+      {"text": "Never", "score": 4}
+    ]
+  },
+  {
+    "question": "10. How supported do you feel by your teammates when difficulties arise?",
+    "options": [
+      {"text": "Not supported at all", "score": 0},
+      {"text": "Slightly supported", "score": 1},
+      {"text": "Moderately supported", "score": 2},
+      {"text": "Supported", "score": 3},
+      {"text": "Very supported", "score": 4}
+    ]
+  },
+  {
+    "question": "11. How comfortable are you resolving disagreements with your teammates?",
+    "options": [
+      {"text": "Very uncomfortable", "score": 0},
+      {"text": "Uncomfortable", "score": 1},
+      {"text": "Neutral", "score": 2},
+      {"text": "Comfortable", "score": 3},
+      {"text": "Very comfortable", "score": 4}
+    ]
+  },
+  {
+    "question": "12. How often do group members complete their assigned tasks on time?",
+    "options": [
+      {"text": "Never", "score": 0},
+      {"text": "Rarely", "score": 1},
+      {"text": "Sometimes", "score": 2},
+      {"text": "Often", "score": 3},
+      {"text": "Always", "score": 4}
+    ]
+  },
+  {
+    "question": "13. How satisfied are you with the overall atmosphere during group study?",
+    "options": [
+      {"text": "Very dissatisfied", "score": 0},
+      {"text": "Dissatisfied", "score": 1},
+      {"text": "Neutral", "score": 2},
+      {"text": "Satisfied", "score": 3},
+      {"text": "Very satisfied", "score": 4}
+    ]
+  },
+  {
+    "question": "14. How willing are you to participate in group work again in future academic tasks?",
+    "options": [
+      {"text": "Not willing at all", "score": 0},
+      {"text": "Slightly willing", "score": 1},
+      {"text": "Undecided", "score": 2},
+      {"text": "Willing", "score": 3},
+      {"text": "Very willing", "score": 4}
+    ]
+  },
+  {
+    "question": "15. Compared with studying alone, how helpful is collaborative study for your learning?",
+    "options": [
+      {"text": "Not helpful at all", "score": 0},
+      {"text": "Slightly helpful", "score": 1},
+      {"text": "Moderately helpful", "score": 2},
+      {"text": "Helpful", "score": 3},
+      {"text": "Very helpful", "score": 4}
+    ]
+  }
+]
